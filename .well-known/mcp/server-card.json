@@ -1,0 +1,21 @@
+{
+  "name": "boltpatternhq-mcp",
+  "version": "1.0.0",
+  "description": "Official BoltPatternHQ MCP Server for instant automotive wheel fitment, PCD, center bore, and offset reference data.",
+  "capabilities": {
+    "tools": [
+      {
+        "name": "search_bolt_pattern",
+        "description": "Search wheel specs (PCD, Center Bore, Offset) by Make, Model, and Year."
+      },
+      {
+        "name": "get_make_models",
+        "description": "Get a list of available car models for a specific Make."
+      },
+      {
+        "name": "get_sample_data",
+        "description": "Get a list of all classic cars available in the free sample database."
+      }
+    ]
+  }
+}
