@@ -1,0 +1,55 @@
+{
+  "name": "boltpatternhq-mcp",
+  "version": "1.0.0",
+  "description": "Official BoltPatternHQ MCP Server for instant automotive wheel fitment, PCD (Pitch Circle Diameter), center bore, thread size, and offset data query.",
+  "private": false,
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "boltpatternhq-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    ".mcp",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "claude",
+    "cursor",
+    "automotive",
+    "wheel-fitment",
+    "bolt-pattern",
+    "pcd",
+    "center-bore",
+    "offset",
+    "lug-nuts",
+    "car-database",
+    "programmatic-seo"
+  ],
+  "author": "double2 @個人開発者 <d2@fanqiang.me>",
+  "license": "MIT",
+  "homepage": "https://boltpatternhq.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/double2dev/boltpatternhq-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/double2dev/boltpatternhq-mcp/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}

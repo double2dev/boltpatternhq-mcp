@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schema/server.json",
+  "name": "boltpatternhq-mcp",
+  "description": "Official BoltPatternHQ MCP Server for instant automotive wheel fitment, PCD (Pitch Circle Diameter), center bore, thread size, and offset reference data.",
+  "vendor": "BoltPatternHQ",
+  "homepage": "https://boltpatternhq.com/",
+  "repository": "https://github.com/double2dev/boltpatternhq-mcp",
+  "license": "MIT",
+  "packages": {
+    "npm": "boltpatternhq-mcp"
+  }
+}
