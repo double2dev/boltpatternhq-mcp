@@ -1,7 +1,7 @@
 # 🚗 BoltPatternHQ MCP Server
 
-[![Smithery Badge](https://smithery.ai/badge/@double2dev/boltpatternhq-mcp)](https://smithery.ai/server/@double2dev/boltpatternhq-mcp)
-[![Glama](https://img.shields.io/badge/Glama-MCP_Server-black)](https://glama.ai/mcp/servers)
+[![Smithery Badge](https://smithery.ai/badge/double2dev/boltpatternhq-mcp)](https://smithery.ai/server/double2dev/boltpatternhq-mcp)
+[![double2dev/boltpatternhq-mcp MCP server](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp/badges/score.svg)](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp)
 [![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-Verified-0073e6)](https://registry.modelcontextprotocol.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
